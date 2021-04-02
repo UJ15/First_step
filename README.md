@@ -5,4 +5,4 @@
 
 ### 자바 라이브 스터디 깃헙 (https://github.com/whiteship/live-study)
 
-#### 모든 자료는 
+##### 참고자료: (명품 JAVA programming , 구글 검색 블로그, 문서, 라이브 스터디에 참여한 다른 개발자들의 정리자료)
